@@ -15,6 +15,7 @@
     "knex": "<0.20.0",
     "strapi": "3.5.1",
     "strapi-admin": "3.5.1",
+    "mysql": "2.18.1",
     "strapi-connector-bookshelf": "3.5.1",
     "strapi-plugin-content-manager": "3.5.1",
     "strapi-plugin-content-type-builder": "3.5.1",
